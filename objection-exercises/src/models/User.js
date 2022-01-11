@@ -19,7 +19,8 @@ class User extends BaseModel {
       },
       child: {
         relation: ManyToManyRelation,
-        
+        Testing a change 
+
       }
     }
   }
